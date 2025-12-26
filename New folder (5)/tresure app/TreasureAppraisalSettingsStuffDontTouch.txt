@@ -1,0 +1,16 @@
+xdiff=154
+ydiff=85
+ocrdetectionthingx=1044
+ocrdetectionthingy=155
+ocrdetectionthingw=147
+ocrdetectionthingh=50
+reappraisex=1234
+reappraisey=186
+reappraisex2=1394
+reappraisey2=246
+delay=375
+kgThreshold=1.80
+moneyThreshold=9999999999
+mousex=801
+mousey=242
+thepresetloc=

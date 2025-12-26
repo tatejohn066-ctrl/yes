@@ -1,0 +1,15 @@
+xxxxxxxx=575
+yyyyyyyy=691
+wwwwwwww=1151
+hhhhhhhh=282
+AAO=0
+theappraiseanywherex=686
+theappraiseanywherey=596
+theyesclickx=1008
+theyesclicky=804
+thenoclickx=894
+thenoclicky=804
+thenofishconfirmationx=961
+thenofishconfirmationy=800
+thetolerancesettingsyeah=3
+thecolorforthenumberthing=0xFFF4B3
